@@ -1,2 +1,8 @@
 fastapi
 uvicorn[standard]
+pandas
+numpy
+tensorflow
+keras
+seaborn
+matplotlib
